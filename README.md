@@ -13,4 +13,4 @@
 [BBVADataChallenge2018:Preprocessing, baseline models](https://github.com/G94/notebooks_examples/blob/master/Kaggle_competitions/bbvadatachallenge2018_notebook.ipynb)
 
 ## Driven Data Competitions
-[Power Laws:Cold Start Energy Competition](https://github.com/G94/notebooks_examples/blob/master/drivendata_competitions/Cold Start Energy_EDA.ipynb.ipynb)
+[Power Laws:Cold Start Energy Competition](https://github.com/G94/notebooks_examples/blob/master/drivendata_competitions/Cold%20Start%20Energy_EDA.ipynb)
