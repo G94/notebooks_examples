@@ -9,7 +9,7 @@
 
 [BBVADataChallenge2018:Preprocessing, baseline models](https://github.com/G94/notebooks_examples/blob/master/Kaggle_competitions/bbvadatachallenge2018_notebook.ipynb)
 
-[BanBifDathaton2018: Attrition, baseline model]
+[BanBifDathaton2018:Attrition,baseline model]
 (https://github.com/G94/notebooks_examples/blob/master/Kaggle_competitions/dathatonbanbif_baseline.ipynb)
 
 ## Driven Data Competitions
